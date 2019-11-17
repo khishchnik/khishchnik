@@ -1,0 +1,25 @@
+.topnav{
+    background-color:#376383;
+	padding: 1% 5% 0.5% 5%;
+	font-size: 30px;
+	text-align:center;
+   display:flex;
+  justify-content:space-around;
+  align-items:center;
+  flex-wrap:wrap;
+}
+.topnav a{
+	display:inline-block;
+  padding:5px;
+}
+.Voiti{
+	line-height: 0.5;
+}
+
+.Kak{
+	font-size: 15px;
+}
+
+#brain{
+	width: 50px;
+}
