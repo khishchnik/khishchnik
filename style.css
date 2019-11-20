@@ -23,3 +23,21 @@
 #brain{
 	width: 50px;
 }
+.kliuch{
+margin-left : -80px;
+}
+button{
+	border-radius: 15px;
+}
+#key{
+	width: 40px;
+}
+.two{background-color:#71A4C9;
+text-align:center;
+margin:10px 25% 10px;
+font-size: 36px;
+}
+#kot{
+	width: 900px;
+height: 400px;
+}
