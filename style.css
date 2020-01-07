@@ -41,3 +41,16 @@ font-size: 36px;
 	width: 900px;
 height: 400px;
 }
+body{
+	background-image: url(2.jpg);
+	background-size: 100% 160%;
+}
+hr{
+	width:500;
+	size:2; 
+	color:#ff0000;
+}
+#spisok{
+	text-align:left;
+	font-size: 15px;
+}
