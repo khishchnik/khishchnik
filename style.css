@@ -36,11 +36,12 @@ button{
 text-align:center;
 margin:10px 25% 10px;
 font-size: 36px;
+padding-bottom:30px;
 }
 #kot{
 	width: 900px;
-height: 400px;
-}
+height: 300px;
+object-fit: cover;}
 body{
 	background-image: url(2.jpg);
 	background-size: 100% 160%;
@@ -51,6 +52,26 @@ hr{
 	color:#ff0000;
 }
 #spisok{
-	text-align:left;
-	font-size: 15px;
+	table-layout: fixed;
+	width:100%;
+	font-size:20px;
+	padding: 45px;
+	text-align: left;
 }
+
+
+#left_column1, #left_column2{
+	padding-left: 100px;
+}
+#table{
+	text-align: center;
+	width:100%;
+	border-collapse: collapse;
+    border: 10px solid black;
+    height: 300px;
+	border-spacing: 60px;
+}
+#xn{
+	margin-left:20px;
+}
+
